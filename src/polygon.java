@@ -26,7 +26,7 @@ class rectangle{
     }
 }
 
-public class name {
+public class polygon {
     public static void main(String[] args){
 
         rectangle r1= new rectangle();
