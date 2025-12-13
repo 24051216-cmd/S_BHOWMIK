@@ -22,7 +22,7 @@ class rectangle{
         return length*breadth;
     }
     public int perimeter(){
-        return 2*(length+breadth);
+        return 2*(length*breadth);
     }
 }
 
